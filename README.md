@@ -16,8 +16,7 @@ To analyze customer and sales data in order to:
 ** Tools & Technologies Used
 
 - Python – Data cleaning & EDA  
-  - Pandas  
-  - Matplotlib / Seaborn  
+  - Pandas
 - SQL – Data querying & aggregation  
 - Power BI – Interactive dashboards & KPIs  
 - GitHub – Version control & project hosting  
